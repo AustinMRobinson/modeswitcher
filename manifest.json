@@ -1,0 +1,23 @@
+{
+  "id": "780821534053786200",
+  "name": "Veneer Modes",
+  "api": "1.0.0",
+  "main": "lights.js",
+  "menu": [
+    {
+      "name": "Light",
+      "command": "light"
+    },
+    {
+      "name": "Dark",
+      "command": "dark"
+    },
+    {
+      "name": "High Contrast",
+      "command": "highcontrast"
+    }
+  ],
+  "relaunchButtons": [
+    {"command": "lightsOff", "name": "Dark Mode", "multipleSelection": true}
+  ]
+}
