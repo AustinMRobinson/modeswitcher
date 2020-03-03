@@ -2,7 +2,7 @@
   "id": "780821534053786200",
   "name": "Veneer Modes",
   "api": "1.0.0",
-  "main": "lights.js",
+  "main": "modeswitcher.js",
   "menu": [
     {
       "name": "Light",
